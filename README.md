@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
 Interactive Root Locus and Step Response analyzer for control systems, built with Python, Tkinter and Matplotlib.
+![Main window](Screenshot.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -103,7 +104,7 @@ control-system-analyzer/
 ├── LICENSE
 └── README.md
 ```
-If `image.jpg` is not found, the program shows an emoji logo instead.
+
 
 ## Libraries Used
 - [python-control](https://python-control.readthedocs.io/) for transfer functions, root locus and step response
